@@ -1,0 +1,2 @@
+timestamp,ticket_text,category,category_confidence,urgency,urgency_confidence,support_team,review_status
+2026-09-30T02:19:41,I cannot access my account and need help resetting my account password.,Account,0.9691,medium,0.3855,Human Review,Reviewed
